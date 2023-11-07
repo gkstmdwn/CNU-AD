@@ -161,3 +161,5 @@ cython_debug/
 
 
 temp.mp3
+tts.mp3
+tts.wav
